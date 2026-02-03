@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Arquitetura</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container header-content">
+            <a href="#home" class="logo">VET. <span class="logo-green">MEL</span></a>
+            <nav class="nav">
+                <a href="#home" class="nav-link active" id="btn-home" data-i18n="menu_projects">Projetos</a>
+                <a href="#sobre" class="nav-link" id="btn-sobre" data-i18n="menu_about">Sobre</a>
+                <a href="#contato" class="nav-link" id="btn-contato" data-i18n="menu_contact">Contato</a>
+                
+                <div class="lang-switcher">
+                    <button onclick="changeLanguage('pt')" id="lang-pt" class="active">PT</button> |
+                    <button onclick="changeLanguage('en')" id="lang-en">EN</button>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main id="content-area">
+        </main>
+
+    <footer class="footer" id="contato">
+        <div class="container">
+            <h3 data-i18n="contact_title">Contato</h3>
+            
+            <div class="social-links" style="display: flex; gap: 30px; justify-content: center; align-items: center; margin-top: 15px;">
+                <a href="#" id="contact-whatsapp" target="_blank" title="WhatsApp">
+                    <i class="fa-brands fa-whatsapp"></i>
+                </a>
+                
+                <a href="#" id="contact-linkedin" target="_blank" title="LinkedIn">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+            </div>
+
+            <p style="margin-top: 2rem; opacity: 0.5; font-size: 0.8rem;" data-i18n="footer_rights">© 2026. Design Minimalista.</p>
+        </div>
+        <p style="font-size: 0.7rem; opacity: 0.6;">Desenvolvido por <a href="https://www.linkedin.com/in/arthur-henrique-36b998369/" target="_blank" style="text-decoration: underline;">Arthur Busanello</a></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
