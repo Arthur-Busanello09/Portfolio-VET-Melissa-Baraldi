@@ -1,8 +1,9 @@
-# Portfólio Minimalista de Arquitetura (ARQ. HAAG)
+# Portfólio de Medicina Veterinária (VET. MEL)
 
-Um portfólio digital moderno, bilíngue (Português/Inglês) e responsivo, desenvolvido especificamente para arquitetos e designers de interiores. O projeto adota uma estética minimalista, focando na usabilidade e na valorização das imagens dos projetos.
+Um site profissional, bilíngue (Português/Inglês) e responsivo, desenvolvido sob medida para apresentação de serviços de Medicina Veterinária de Grandes Animais (Equinos e Bovinos).
 
-🌍 **[Ver Projeto Online (Live Demo)](#)** *(Substitua aqui pelo seu link do GitHub Pages)*
+O projeto une uma estética limpa (inspirada no campo e na saúde) com alta performance técnica, servindo como cartão de visitas digital para produtores rurais e haras.
+🌍 **[https://arthur-busanello09.github.io/Portfolio-VET-Melissa-Baraldi/](#)** 
 
 ---
 
@@ -10,7 +11,7 @@ Um portfólio digital moderno, bilíngue (Português/Inglês) e responsivo, dese
 
 * **Arquitetura SPA (Single Page Application):** Navegação fluida sem recarregar a página, controlada via JavaScript Vanilla (Hashes de URL).
 * **Sistema Bilíngue (I18n):** Troca instantânea de idioma (PT/EN) de toda a interface e do banco de dados, sem refresh.
-* **Galeria Interativa:** Carrossel de imagens customizado para visualização detalhada dos projetos com legendas dinâmicas.
+* **Galeria Interativa:** Carrossel de imagens customizado para visualização..
 * **Gerenciamento Descomplicado:** Todo o conteúdo (textos, imagens e projetos) é gerenciado em um único objeto JavaScript, dispensando a necessidade de banco de dados e facilitando a manutenção.
 * **100% Responsivo:** Design adaptado perfeitamente para desktops, tablets e smartphones.
 
@@ -27,7 +28,7 @@ Este projeto foi desenvolvido sem o uso de frameworks pesados, garantindo carreg
 
 ---
 
-## 📂 Como Atualizar o Portfólio (Para o Arquiteto)
+## 📂 Como Atualizar o Portfólio 
 
 Toda a inteligência e os dados do site estão no arquivo `app.js`. Você não precisa mexer no código HTML ou CSS para adicionar novos projetos.
 
@@ -65,6 +66,6 @@ Este projeto está configurado para ser hospedado gratuitamente no **GitHub Page
 
 ## 👨‍💻 Desenvolvedor
 
-Desenvolvido com ☕ por **[Seu Nome/Usuário]**
+Desenvolvido com ☕ por **[Arthur Busanello]**
 * **Formação:** Engenheiro de Software & Análise de Dados.
-* **Contato:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+* **Contato:** [Arthur-Busanello09](https://github.com/Arthur-Busanello09)
