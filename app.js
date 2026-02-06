@@ -51,7 +51,7 @@ const portfolioData = {
     // --- Categorias de Trabalho ---
     categories: [
         { id: 'equinos', title: { pt: 'Medicina e Manejo Equino', en: 'Equine Medicine & Management' }, cover: 'img/equinos/estagio2.jpg.jpeg' },
-        { id: 'bovinos', title: { pt: 'Bovinocultura (Leite e Corte)', en: 'Cattle Farming (Dairy & Beef)' }, cover: 'img/bovinos/boi1.jpg.jpeg' },
+        { id: 'bovinos', title: { pt: 'Bovinocultura (Leite e Corte)', en: 'Cattle Farming (Dairy & Beef)' }, cover: 'img/bovinos/bovinos1.jpeg' },
         { id: 'tecnica', title: { pt: 'Formação e Técnica', en: 'Education & Technical Skills' }, cover: 'img/equinos/estagio1.jpg.jpeg' }
     ],
 
@@ -67,10 +67,10 @@ const portfolioData = {
                 pt: 'Experiência prática intensiva em rotina de haras. Atuação direta no apoio clínico, reprodução e transferência de embriões. Realização de palpação retal, acompanhamento de ciclo reprodutivo e administração de medicamentos. Cuidados neonatais com potros recém-nascidos e tratamento de ferimentos.', 
                 en: 'Intensive practical experience in stud farm routine. Direct involvement in clinical support, reproduction, and embryo transfer. Performance of rectal palpation, reproductive cycle monitoring, and medication administration. Neonatal care for newborn foals and wound treatment.' 
             },
-            cover: 'img/equinos/capa-reproducao.jpg',
+            cover: 'img/equinos/estagio1.jpg.jpeg',
             gallery: [
-                { src: 'img/equinos/potro.jpg', desc: { pt: 'Cuidados com potros recém-nascidos.', en: 'Care for newborn foals.' } },
-                { src: 'img/equinos/medicacao.jpg', desc: { pt: 'Administração de medicamentos e suporte clínico.', en: 'Medication administration and clinical support.' } }
+                { src: 'img/equinos/estagio2.jpg.jpeg', desc: { pt: 'Cuidados com eguas prenhas.', en: 'Care for pregnant mares.' } },
+                { src: 'img/equinos/estagio5.jpg.jpeg', desc: { pt: 'Administração de medicamentos e suporte clínico.', en: 'Medication administration and clinical support.' } }
             ],
         },
         {
@@ -82,10 +82,10 @@ const portfolioData = {
                 pt: 'Suporte técnico em aulas de equoterapia e equitação clássica (salto e três tambores). Responsável pelo manejo diário dos animais, incluindo alimentação, hidratação e primeiros cuidados veterinários. Foco no bem-estar animal integrado à atividade esportiva e terapêutica.', 
                 en: 'Technical support in equine therapy and classic riding classes (jumping and barrel racing). Responsible for daily animal management, including feeding, hydration, and veterinary first aid. Focus on animal welfare integrated with sports and therapeutic activities.' 
             },
-            cover: 'img/equinos/capa-hipismo.jpg',
+            cover: 'img/equinos/hipismo2.jpg.jpeg',
             gallery: [
-                { src: 'img/equinos/equoterapia.jpg', desc: { pt: 'Auxílio em equoterapia.', en: 'Assistance in equine therapy.' } },
-                { src: 'img/equinos/alimentacao.jpg', desc: { pt: 'Manejo nutricional diário.', en: 'Daily nutritional management.' } }
+                { src: 'img/equinos/hipismo3.jpg.jpeg', desc: { pt: 'Auxílio em equoterapia.', en: 'Assistance in equine therapy.' } },
+                { src: 'img/equinos/hipismo5.jpg.jpeg', desc: { pt: 'Manejo nutricional diário.', en: 'Daily nutritional management.' } }
             ],
         },
 
@@ -99,10 +99,10 @@ const portfolioData = {
                 pt: 'Atuação completa na rotina de gado leiteiro, incluindo ordenha, manejo nutricional e sanitário. Capacitação técnica em Inseminação Artificial em Tempo Fixo (IATF) e vacinação contra Brucelose e Tuberculose, garantindo a saúde do rebanho e a qualidade da produção.', 
                 en: 'Complete involvement in dairy cattle routine, including milking, nutritional, and sanitary management. Technical training in Fixed-Time Artificial Insemination (FTAI) and vaccination against Brucellosis and Tuberculosis, ensuring herd health and production quality.' 
             },
-            cover: 'img/bovinos/capa-leite.jpg',
+            cover: 'img/bovinos/bovinos17.jpeg',
             gallery: [
-                { src: 'img/bovinos/ordenha.jpg', desc: { pt: 'Rotina de ordenha e manejo.', en: 'Milking routine and management.' } },
-                { src: 'img/bovinos/vacina.jpg', desc: { pt: 'Programas de vacinação e sanidade.', en: 'Vaccination and health programs.' } }
+                { src: 'img/bovinos/bovinos1.jpeg', desc: { pt: 'Ordenha e manejo nutricional.', en: 'Milking and nutritional management.' } },
+                { src: 'img/bovinos/bovinos9.jpeg', desc: { pt: 'Vacinação e sanidade.', en: 'Vaccination and health programs.' } }
             ],
         }
     ]
